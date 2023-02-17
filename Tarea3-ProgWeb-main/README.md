@@ -8,7 +8,7 @@
  
   
   # Capturas de pantalla
-  ![image](/Tarea3/img/captu.png)
+  ![image](./Tarea3/img/captu.png)
   
 
 
